@@ -10,7 +10,7 @@ Follow [this link](https://quiet-chamber-70936.herokuapp.com/) to view the appli
 
 ### Desktop
 
-<img src="/icons/desktop.PNG" alt=" desktop screenshot"/>
+<img src="./icons/desktop.PNG" alt=" desktop screenshot"/>
 
 
 ## Getting Started
