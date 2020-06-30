@@ -4,7 +4,7 @@ Budget Tracker is a progressive web application that allows users to track their
 
 ## Link to Application
 
-Follow [this link](https://quiet-chamber-70936.herokuapp.com/) to view the application.
+Follow [this link](https://mighty-spire-47119.herokuapp.com/) to view the application.
 
 ## Screenshots
 
